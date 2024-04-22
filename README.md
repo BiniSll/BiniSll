@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harbin
 
 
-Software Enginner
+Full-Stack Developer
 
 Microservices
 
@@ -16,6 +16,8 @@ RabbitMQ
 PostrgreSQL
 MSQL
 .Net
+React-Native
+ReactJs
 Python
 Javascript
 Typescript
